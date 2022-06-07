@@ -1,4 +1,8 @@
 # A/A test, A/B test on Newsfeed application 
+<b>Rendered notebook:</b>
+https://nbviewer.org/github/Teshimoz/AB_test_Newsfeed/blob/9b2f36fd63af0b5baff7f8b80d4406e67c2ed1d6/AB_test_Newsfeed.ipynb
+<br><br>
+<b>Project description:</b><br>
 We have an application with newsfeed. There are users watching posts, users can like some post, so we have `views` and `likes`<br> 
 Will measure the involvement of our users by CTR metric - likes divided by views.
 The new recommendation algorithm was applied for part of our users.<br>
@@ -15,5 +19,5 @@ Approaches used in this project:
 * Bucket transformation
 * Linearized metric
 
-<i>*The data we use generated as a part of Analyst Simulator from Karpov Cources, <br>
+<i>*The data generated as a part of Analyst Simulator from Karpov Cources, <br>
   avaliable for students on server</i>
