@@ -1,5 +1,5 @@
 # A/A test, A/B test on Newsfeed application 
-<b>Rendered notebook:</b>
+<b>Rendered notebook:</b><br>
 https://nbviewer.org/github/Teshimoz/AB_test_Newsfeed/blob/c76746ef7e78ba16608d81a1b7f5a1628b18f6bd/AB_test_Newsfeed.ipynb
 <br><br>
 <b>Project description:</b><br>
