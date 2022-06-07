@@ -1,6 +1,6 @@
 # A/A test, A/B test on Newsfeed application 
 <b>Rendered notebook:</b>
-https://nbviewer.org/github/Teshimoz/AB_test_Newsfeed/blob/9b2f36fd63af0b5baff7f8b80d4406e67c2ed1d6/AB_test_Newsfeed.ipynb
+https://nbviewer.org/github/Teshimoz/AB_test_Newsfeed/blob/c76746ef7e78ba16608d81a1b7f5a1628b18f6bd/AB_test_Newsfeed.ipynb
 <br><br>
 <b>Project description:</b><br>
 We have an application with newsfeed. There are users watching posts, users can like some post, so we have `views` and `likes`<br> 
