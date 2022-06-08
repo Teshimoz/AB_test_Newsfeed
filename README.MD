@@ -12,7 +12,7 @@ Gererally we have two main parts ansqering twose questions:
 * A/B-test: Is the group with new algo different from the control group?
 
 Approaches used in this project:
-* Simulation of 10000 A/A tests (subsets with replacing)
+* Simulation of many A/A tests (subsets with random sampeling with replacing)
 * Distribution of simulated p-values checking
 * Poisson Bootstrap
 * Smoothed metric
