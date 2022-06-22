@@ -19,5 +19,6 @@ Approaches used in this project:
 * Bucket transformation
 * Linearized metric
 
+There are also screenshots from Superset [dashboards](dashboards) completed for this project.<br><br>
 <i>*The data generated as a part of Analyst Simulator from Karpov Cources, <br>
   avaliable for students on server</i>
