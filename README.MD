@@ -1,11 +1,10 @@
 # Newsfeed application. A/A testing, A/B testing.
 <b>Rendered notebook:</b><br>
-https://nbviewer.org/github/Teshimoz/AB_test_Newsfeed/blob/e503e6398a177c02156a8b6ccf7a8ad577537da8/AB_test_Newsfeed.ipynb
+https://nbviewer.org/github/Teshimoz/AB_test_Newsfeed/blob/6d1b44d87d96015ce2d0b9ca11786e5fd42517c7/AB_test_Newsfeed.ipynb
 <br><br>
 <b>Project description:</b><br>
-We have the application with a newsfeed. 
-There are users watching posts, users can like some post, so we have `views` and `likes`<br>
-The new recommendation algorithms were applied for part of our users.<br>
+We have the Newsfeed application.<br>
+There are users watching posts, they can like some post, so we have `views` and `likes` for every user. The new recommendation algorithms were applied for a part of our users. We want to check how it influenced them by comparing the groups in A/B test. 
 Will measure the involvement of our users by **CTR** metric - likes divided by views (individually and in groups).
 
 Generally there are two main parts, ansqering next questions:
